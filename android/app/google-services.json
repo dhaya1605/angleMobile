@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "222777721610",
+    "firebase_url": "https://angle-dev.firebaseio.com",
+    "project_id": "angle-dev",
+    "storage_bucket": "angle-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222777721610:android:1709c46e5f3035114ff0f3",
+        "android_client_info": {
+          "package_name": "com.d.jobcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222777721610-omua7ll4gf8s54sl0st555b3qshbsi2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIL28HqKgszDJ7p3slrBCH0GdEhIEGKws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222777721610-omua7ll4gf8s54sl0st555b3qshbsi2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222777721610:android:9f259921a3afadfb4ff0f3",
+        "android_client_info": {
+          "package_name": "in.co.sigmaindustries.jobcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222777721610-omua7ll4gf8s54sl0st555b3qshbsi2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIL28HqKgszDJ7p3slrBCH0GdEhIEGKws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222777721610-omua7ll4gf8s54sl0st555b3qshbsi2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
